@@ -1,0 +1,1 @@
+[ { "title": "Go", "url": "/posts/go/", "categories": "Go, 基础语法", "tags": "Go", "date": "2022-03-02 20:42:00 +0800", "snippet": "注释Go 语言中只能用 // 进行注释，第一行注释的开头要写上函数或方法的名称。数据类型基本数据类型int int8 int16 int32 int64uint uint8 uint16 uint32 uint64boolean复杂数据类型" } ]
