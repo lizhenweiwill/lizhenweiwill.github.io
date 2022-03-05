@@ -1,5 +1,5 @@
 ---
-title: 关于博客
+title: 关于
 icon: fas fa-info-circle
 order: 4
 ---
@@ -8,3 +8,10 @@ order: 4
 {: .prompt-tip }
 
 这里写一下资料吧
+
+```
+> 这是啥玩意.
+{: .prompt-info }
+```
+
+> 测试一下这个语法。{: .prompt-warning }
