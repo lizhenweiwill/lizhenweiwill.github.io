@@ -23,7 +23,7 @@ timezone: Asia/Shanghai
 
 title: ZhenWeiLi                        # the main title
 
-tagline: 生命不息    折腾不止             # it will display as the sub-title
+tagline: 生命不息		折腾不止        # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   好记性不如烂笔头，何况记性不好。
@@ -44,7 +44,7 @@ social:
   email: lizhenwei.will@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
