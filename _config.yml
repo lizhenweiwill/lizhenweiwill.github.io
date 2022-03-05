@@ -21,9 +21,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ZhenWeiLi                             # the main title
+title: ZhenWeiLi                        # the main title
 
-tagline: 生命不息  折腾不止                 # it will display as the sub-title
+tagline: 生命不息    折腾不止             # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   好记性不如烂笔头，何况记性不好。

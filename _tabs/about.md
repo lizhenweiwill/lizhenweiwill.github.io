@@ -5,20 +5,12 @@ order: 4
 ---
 
 > Add Markdown syntax to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
 
 这里写一下资料吧
 
 > > 测试一下这个语法。
 >
-> {: .prompt-warning }
-
-```
-> Example line for prompt.
-{: .prompt-warning }
-```
-
-
+> 嵌套引用的格式。
 
 > Example line for prompt.
 
