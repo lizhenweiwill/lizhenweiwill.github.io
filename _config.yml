@@ -21,9 +21,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 振威                             # the main title
+title: ZhenWei                             # the main title
 
-tagline: 生命不息折腾不止                 # it will display as the sub-title
+tagline: 生命不息  折腾不止                 # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -83,7 +83,7 @@ theme_mode: dark # [light|dark]
 img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.png'
+avatar: '/commons/avatar.jpeg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
