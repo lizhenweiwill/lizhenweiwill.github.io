@@ -64,7 +64,7 @@ Fluttering and dancing in the breeze.
 - [ ] Defeat COVID-19
   - [x] Vaccine production
   - [ ] Economic recovery
-  - [ ] People smile again
+  - [ ] People smile again 
 
 ### Description list
 
